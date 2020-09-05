@@ -1,11 +1,11 @@
 import React, { useCallback, useEffect, useRef, useState } from 'react'
 import * as THREE from 'three'
-import { System, World } from 'ecsy'
+// import { System, World } from 'ecsy'
 
 export const ThreeViewer = () => {
   const root = useRef<HTMLDivElement>(null)
   const [{ renderer, camera }, set3] = useState<{ renderer?: THREE.Renderer, camera?: THREE.PerspectiveCamera }>({})
-  const [system, setSystem] = useState<World|null>(null)
+  // const [system, setSystem] = useState<World|null>(null)
   const resize = useCallback((): void => {
     const div = root.current
     if (div !== null && renderer !== undefined && camera !== undefined) {
