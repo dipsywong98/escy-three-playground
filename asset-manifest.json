@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ecsy-three-playground/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/ecsy-three-playground/static/js/main.282ab807.chunk.js",
+    "main.js.map": "/ecsy-three-playground/static/js/main.282ab807.chunk.js.map",
+    "runtime-main.js": "/ecsy-three-playground/static/js/runtime-main.3a6a816f.js",
+    "runtime-main.js.map": "/ecsy-three-playground/static/js/runtime-main.3a6a816f.js.map",
+    "static/js/2.fcc4ddec.chunk.js": "/ecsy-three-playground/static/js/2.fcc4ddec.chunk.js",
+    "static/js/2.fcc4ddec.chunk.js.map": "/ecsy-three-playground/static/js/2.fcc4ddec.chunk.js.map",
+    "index.html": "/ecsy-three-playground/index.html",
+    "precache-manifest.b73c4e4de868471a5abab2d71a9b9e2b.js": "/ecsy-three-playground/precache-manifest.b73c4e4de868471a5abab2d71a9b9e2b.js",
+    "service-worker.js": "/ecsy-three-playground/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/ecsy-three-playground/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.fcc4ddec.chunk.js.LICENSE.txt": "/ecsy-three-playground/static/js/2.fcc4ddec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a6a816f.js",
+    "static/js/2.fcc4ddec.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.282ab807.chunk.js"
+  ]
+}
